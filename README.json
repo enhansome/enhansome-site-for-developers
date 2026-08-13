@@ -1,0 +1,592 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🎯 어떤 저장소인가요?"
+    },
+    {
+      "description": "기여해주신 모든 분들께 감사드립니다! 🙏",
+      "items": [],
+      "title": "👥 Contributors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "AI 🤖",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "개발 도구",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub Copilot $",
+                  "description": "GitHub에서 개발한 프로그래밍 AI 보조 도구",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "로컬 AI 도구",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PrivateGPT F, O",
+                  "description": "로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-12T12:36:47Z",
+                    "owner": "zylon-ai",
+                    "repo": "private-gpt",
+                    "stars": 57433
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LocalAI F, O",
+                  "description": "OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Go",
+                    "last_commit": "2026-08-13T03:08:55Z",
+                    "owner": "mudler",
+                    "repo": "LocalAI",
+                    "stars": 48416
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "자료모음 🧾",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Awesome",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome EN, O",
+                  "description": "프로그래밍 관련 자료모음",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-06-30T18:21:16Z",
+                    "owner": "sindresorhus",
+                    "repo": "awesome",
+                    "stars": 495053
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Computer Science EN",
+                  "description": "컴퓨터 사이언스 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2026-07-14T05:38:25Z",
+                    "owner": "ossu",
+                    "repo": "computer-science",
+                    "stars": 207938
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Mcp Servers EN, O",
+                  "description": "MCP Server 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-03T03:09:55Z",
+                    "owner": "punkpeye",
+                    "repo": "awesome-mcp-servers",
+                    "stars": 92179
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Interview Questions EN",
+                  "description": "인터뷰 질문 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": null,
+                    "last_commit": "2024-07-29T14:21:23Z",
+                    "owner": "DopplerHQ",
+                    "repo": "awesome-interview-questions",
+                    "stars": 84033
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Vue EN, O",
+                  "description": "Vue.js 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-24T10:16:04Z",
+                    "owner": "vuejs",
+                    "repo": "awesome-vue",
+                    "stars": 73553
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome C++ EN, O",
+                  "description": "C++ 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-04T08:08:58Z",
+                    "owner": "fffaraz",
+                    "repo": "awesome-cpp",
+                    "stars": 72750
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Courses EN",
+                  "description": "무료 CS 강좌 모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2023-05-04T12:49:34Z",
+                    "owner": "prakhar1989",
+                    "repo": "awesome-courses",
+                    "stars": 70378
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Node.js EN, O",
+                  "description": "Node.js 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-05-03T08:24:10Z",
+                    "owner": "sindresorhus",
+                    "repo": "awesome-nodejs",
+                    "stars": 66507
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Docker EN",
+                  "description": "도커 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-29T22:24:33Z",
+                    "owner": "veggiemonk",
+                    "repo": "awesome-docker",
+                    "stars": 36626
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Data Science EN",
+                  "description": "데이터 사이언스 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-10T14:39:24Z",
+                    "owner": "academic",
+                    "repo": "awesome-datascience",
+                    "stars": 29806
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Deep Learning EN",
+                  "description": "딥 러닝 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2025-05-26T12:28:00Z",
+                    "owner": "ChristosChristofidis",
+                    "repo": "awesome-deep-learning",
+                    "stars": 28741
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Computer Vision EN",
+                  "description": "컴퓨터 비전 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-05-17T14:24:27Z",
+                    "owner": "jbhuang0604",
+                    "repo": "awesome-computer-vision",
+                    "stars": 23491
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome .NET EN, O",
+                  "description": ".NET 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-03-26T05:16:53Z",
+                    "owner": "quozd",
+                    "repo": "awesome-dotnet",
+                    "stars": 21553
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome .NET Core EN, O",
+                  "description": ".NET Core 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C#",
+                    "last_commit": "2026-02-27T03:26:22Z",
+                    "owner": "thangchung",
+                    "repo": "awesome-dotnet-core",
+                    "stars": 21363
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Tailwind CSS EN, O",
+                  "description": "Tailwind CSS 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-03T00:26:40Z",
+                    "owner": "aniftyco",
+                    "repo": "awesome-tailwindcss",
+                    "stars": 15107
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Microservices EN",
+                  "description": "마이크로서비스 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-06-10T15:05:12Z",
+                    "owner": "mfornos",
+                    "repo": "awesome-microservices",
+                    "stars": 14475
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Ruby EN, O",
+                  "description": "Ruby 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-16T20:36:03Z",
+                    "owner": "markets",
+                    "repo": "awesome-ruby",
+                    "stars": 14136
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Generative AI EN",
+                  "description": "생성형 AI 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-03T10:58:05Z",
+                    "owner": "steven2358",
+                    "repo": "awesome-generative-ai",
+                    "stars": 12491
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Next.js EN, O",
+                  "description": "Next.js 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-29T13:51:02Z",
+                    "owner": "unicodeveloper",
+                    "repo": "awesome-nextjs",
+                    "stars": 11108
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Angular EN, O",
+                  "description": "Angular 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2026-08-12T23:10:22Z",
+                    "owner": "PatrickJS",
+                    "repo": "awesome-angular",
+                    "stars": 10057
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome CSS EN, O",
+                  "description": "CSS 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-10-30T07:00:24Z",
+                    "owner": "awesome-css-group",
+                    "repo": "awesome-css",
+                    "stars": 5610
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome GeoJson EN",
+                  "description": "Geo JSON 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-23T13:51:40Z",
+                    "owner": "tmcw",
+                    "repo": "awesome-geojson",
+                    "stars": 2525
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome JVM EN",
+                  "description": "JVM 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2022-08-30T06:38:00Z",
+                    "owner": "deephacks",
+                    "repo": "awesome-jvm",
+                    "stars": 2171
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Svelte EN, O",
+                  "description": "Svelte 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-05-30T14:58:11Z",
+                    "owner": "TheComputerM",
+                    "repo": "awesome-svelte",
+                    "stars": 2147
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Fonts EN, O",
+                  "description": "폰트 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-26T05:01:07Z",
+                    "owner": "brabadu",
+                    "repo": "awesome-fonts",
+                    "stars": 2045
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Algovis EN, O",
+                  "description": "알고리즘 시각화 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2022-12-05T14:04:34Z",
+                    "owner": "enjalot",
+                    "repo": "algovis",
+                    "stars": 1763
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Playwright EN",
+                  "description": "플레이라이트 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-12T21:41:13Z",
+                    "owner": "mxschmitt",
+                    "repo": "awesome-playwright",
+                    "stars": 1551
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Web Icons EN, O",
+                  "description": "웹 아이콘 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-11T07:21:31Z",
+                    "owner": "vkarampinis",
+                    "repo": "awesome-icons",
+                    "stars": 1550
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Bootstrap EN, O",
+                  "description": "Bootstrap 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2023-11-02T14:54:30Z",
+                    "owner": "awesome-bootstrap-org",
+                    "repo": "awesome-bootstrap",
+                    "stars": 1436
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Maintainers EN, O",
+                  "description": "Open source maintainer 모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2021-08-16T16:23:57Z",
+                    "owner": "nayafia",
+                    "repo": "awesome-maintainers",
+                    "stars": 1170
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Functional Programming EN",
+                  "description": "함수형 프로그래밍 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-04-22T09:00:07Z",
+                    "owner": "lucasviola",
+                    "repo": "awesome-functional-programming",
+                    "stars": 1009
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Icons EN, O",
+                  "description": "아이콘 관련 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-07-19T19:40:19Z",
+                    "owner": "notlmn",
+                    "repo": "awesome-icons",
+                    "stars": 988
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Learn Data Science EN",
+                  "description": "데이터 사이언스 학습 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2024-06-07T15:12:03Z",
+                    "owner": "siboehm",
+                    "repo": "awesome-learn-datascience",
+                    "stars": 790
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome Empirical Software Engineering EN",
+                  "description": "경험적 소프트웨어 엔지니어링 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-06-01T18:11:43Z",
+                    "owner": "dspinellis",
+                    "repo": "awesome-msr",
+                    "stars": 488
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Awesome CodeRabbit EN",
+                  "description": "코드래빗 자료모음 (Awesome 계열)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-06-25T11:38:15Z",
+                    "owner": "coderabbitai",
+                    "repo": "awesome-coderabbit",
+                    "stars": 475
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "링크"
+    },
+    {
+      "description": "이 프로젝트는 MIT License 하에 공개되어 있습니다. 개발자 커뮤니티의 발전을 위해 자유롭게 사용하고 기여해주세요.",
+      "items": [],
+      "title": "📜 라이선스"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:55.694Z",
+    "original_repository": "currenjin/site-for-developers",
+    "original_repository_sha": "89e9d31362e312dcc2193cc28cc6fbb9a0bcbcd9",
+    "enhanced_repository": "enhansome/enhansome-site-for-developers",
+    "enhanced_repository_description": null,
+    "title": "Awesome 🌎💎 개발자들의 첫 번째 북마크 with stars"
+  }
+}
