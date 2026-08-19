@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "🎯 어떤 저장소인가요?"
-    },
-    {
-      "description": "기여해주신 모든 분들께 감사드립니다! 🙏",
-      "items": [],
-      "title": "👥 Contributors"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -30,18 +20,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 1232322871,
                     "language": "TypeScript",
                     "last_commit": "2026-08-03T18:44:59Z",
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 931
+                    "stars": 943
                   }
-                },
-                {
-                  "node_type": "item",
-                  "title": "GitHub Copilot $",
-                  "description": "GitHub에서 개발한 프로그래밍 AI 보조 도구",
-                  "children": []
                 }
               ]
             },
@@ -57,8 +42,9 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 635240594,
                     "language": "Python",
-                    "last_commit": "2026-08-18T15:18:34Z",
+                    "last_commit": "2026-08-19T09:39:15Z",
                     "owner": "zylon-ai",
                     "repo": "private-gpt",
                     "stars": 57444
@@ -71,11 +57,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 615869301,
                     "language": "Go",
-                    "last_commit": "2026-08-19T03:09:38Z",
+                    "last_commit": "2026-08-19T12:06:13Z",
                     "owner": "mudler",
                     "repo": "LocalAI",
-                    "stars": 48566
+                    "stars": 48572
                   }
                 },
                 {
@@ -85,11 +72,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 1334791300,
                     "language": "TypeScript",
                     "last_commit": "2026-08-18T03:28:38Z",
                     "owner": "Moresyl",
                     "repo": "dsh-studio",
-                    "stars": 9
+                    "stars": 10
                   }
                 }
               ]
@@ -113,11 +101,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21737465,
                     "language": null,
                     "last_commit": "2026-08-18T13:28:50Z",
                     "owner": "sindresorhus",
                     "repo": "awesome",
-                    "stars": 497473
+                    "stars": 497669
                   }
                 },
                 {
@@ -127,11 +116,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 19415064,
                     "language": "HTML",
                     "last_commit": "2026-07-14T05:38:25Z",
                     "owner": "ossu",
                     "repo": "computer-science",
-                    "stars": 208145
+                    "stars": 208160
                   }
                 },
                 {
@@ -141,11 +131,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 896335270,
                     "language": null,
                     "last_commit": "2026-08-17T21:28:42Z",
                     "owner": "punkpeye",
                     "repo": "awesome-mcp-servers",
-                    "stars": 92544
+                    "stars": 92564
                   }
                 },
                 {
@@ -155,11 +146,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 47018239,
                     "language": null,
                     "last_commit": "2024-07-29T14:21:23Z",
                     "owner": "DopplerHQ",
                     "repo": "awesome-interview-questions",
-                    "stars": 84113
+                    "stars": 84118
                   }
                 },
                 {
@@ -169,11 +161,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 44571718,
                     "language": null,
                     "last_commit": "2026-07-24T10:16:04Z",
                     "owner": "vuejs",
                     "repo": "awesome-vue",
-                    "stars": 73540
+                    "stars": 73538
                   }
                 },
                 {
@@ -183,11 +176,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21935031,
                     "language": null,
-                    "last_commit": "2026-08-04T08:08:58Z",
+                    "last_commit": "2026-08-19T05:32:17Z",
                     "owner": "fffaraz",
                     "repo": "awesome-cpp",
-                    "stars": 72824
+                    "stars": 72829
                   }
                 },
                 {
@@ -197,11 +191,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 26689598,
                     "language": null,
                     "last_commit": "2023-05-04T12:49:34Z",
                     "owner": "prakhar1989",
                     "repo": "awesome-courses",
-                    "stars": 70508
+                    "stars": 70520
                   }
                 },
                 {
@@ -211,11 +206,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21737266,
                     "language": null,
                     "last_commit": "2026-05-03T08:24:10Z",
                     "owner": "sindresorhus",
                     "repo": "awesome-nodejs",
-                    "stars": 66554
+                    "stars": 66558
                   }
                 },
                 {
@@ -225,11 +221,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 24297122,
                     "language": null,
                     "last_commit": "2026-08-18T20:54:04Z",
                     "owner": "veggiemonk",
                     "repo": "awesome-docker",
-                    "stars": 36664
+                    "stars": 36668
                   }
                 },
                 {
@@ -239,11 +236,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21515044,
                     "language": null,
                     "last_commit": "2026-08-18T10:27:04Z",
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 29838
+                    "stars": 29839
                   }
                 },
                 {
@@ -253,11 +251,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 28723659,
                     "language": null,
                     "last_commit": "2025-05-26T12:28:00Z",
                     "owner": "ChristosChristofidis",
                     "repo": "awesome-deep-learning",
-                    "stars": 28773
+                    "stars": 28778
                   }
                 },
                 {
@@ -267,6 +266,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 29357796,
                     "language": null,
                     "last_commit": "2024-05-17T14:24:27Z",
                     "owner": "jbhuang0604",
@@ -281,11 +281,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21894635,
                     "language": null,
                     "last_commit": "2026-03-26T05:16:53Z",
                     "owner": "quozd",
                     "repo": "awesome-dotnet",
-                    "stars": 21560
+                    "stars": 21562
                   }
                 },
                 {
@@ -295,11 +296,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 54086969,
                     "language": "C#",
                     "last_commit": "2026-02-27T03:26:22Z",
                     "owner": "thangchung",
                     "repo": "awesome-dotnet-core",
-                    "stars": 21362
+                    "stars": 21363
                   }
                 },
                 {
@@ -309,11 +311,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 109994573,
                     "language": null,
                     "last_commit": "2026-08-14T14:48:26Z",
                     "owner": "aniftyco",
                     "repo": "awesome-tailwindcss",
-                    "stars": 15136
+                    "stars": 15142
                   }
                 },
                 {
@@ -323,6 +326,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 34987697,
                     "language": null,
                     "last_commit": "2026-06-10T15:05:12Z",
                     "owner": "mfornos",
@@ -337,6 +341,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21461715,
                     "language": null,
                     "last_commit": "2026-08-13T09:40:38Z",
                     "owner": "markets",
@@ -351,11 +356,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 554771302,
                     "language": null,
                     "last_commit": "2026-08-03T10:58:05Z",
                     "owner": "steven2358",
                     "repo": "awesome-generative-ai",
-                    "stars": 12513
+                    "stars": 12514
                   }
                 },
                 {
@@ -365,6 +371,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 75291705,
                     "language": null,
                     "last_commit": "2026-07-29T13:51:02Z",
                     "owner": "unicodeveloper",
@@ -379,6 +386,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 41718185,
                     "language": "HTML",
                     "last_commit": "2026-08-18T18:56:44Z",
                     "owner": "PatrickJS",
@@ -393,6 +401,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 30108786,
                     "language": null,
                     "last_commit": "2024-10-30T07:00:24Z",
                     "owner": "awesome-css-group",
@@ -407,6 +416,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 36456042,
                     "language": null,
                     "last_commit": "2026-07-23T13:51:40Z",
                     "owner": "tmcw",
@@ -421,6 +431,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 40659091,
                     "language": null,
                     "last_commit": "2022-08-30T06:38:00Z",
                     "owner": "deephacks",
@@ -435,6 +446,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 299685925,
                     "language": null,
                     "last_commit": "2026-05-30T14:58:11Z",
                     "owner": "TheComputerM",
@@ -449,6 +461,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 29055846,
                     "language": null,
                     "last_commit": "2026-07-26T05:01:07Z",
                     "owner": "brabadu",
@@ -463,6 +476,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 23984871,
                     "language": null,
                     "last_commit": "2022-12-05T14:04:34Z",
                     "owner": "enjalot",
@@ -477,6 +491,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 246150059,
                     "language": null,
                     "last_commit": "2026-08-12T21:41:13Z",
                     "owner": "mxschmitt",
@@ -491,11 +506,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 50588965,
                     "language": null,
                     "last_commit": "2026-08-11T07:21:31Z",
                     "owner": "vkarampinis",
                     "repo": "awesome-icons",
-                    "stars": 1553
+                    "stars": 1554
                   }
                 },
                 {
@@ -505,6 +521,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 22658069,
                     "language": "JavaScript",
                     "last_commit": "2023-11-02T14:54:30Z",
                     "owner": "awesome-bootstrap-org",
@@ -519,6 +536,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 118960100,
                     "language": null,
                     "last_commit": "2021-08-16T16:23:57Z",
                     "owner": "nayafia",
@@ -533,6 +551,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 45216861,
                     "language": null,
                     "last_commit": "2024-04-22T09:00:07Z",
                     "owner": "lucasviola",
@@ -547,6 +566,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 158815265,
                     "language": null,
                     "last_commit": "2026-07-19T19:40:19Z",
                     "owner": "notlmn",
@@ -561,6 +581,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 96045643,
                     "language": null,
                     "last_commit": "2024-06-07T15:12:03Z",
                     "owner": "siboehm",
@@ -575,6 +596,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 58886472,
                     "language": null,
                     "last_commit": "2026-06-01T18:11:43Z",
                     "owner": "dspinellis",
@@ -589,6 +611,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 862342240,
                     "language": null,
                     "last_commit": "2026-06-25T11:38:15Z",
                     "owner": "coderabbitai",
@@ -602,16 +625,12 @@
         }
       ],
       "title": "링크"
-    },
-    {
-      "description": "이 프로젝트는 MIT License 하에 공개되어 있습니다. 개발자 커뮤니티의 발전을 위해 자유롭게 사용하고 기여해주세요.",
-      "items": [],
-      "title": "📜 라이선스"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:28:41.387Z",
+    "last_updated": "2026-08-19T12:53:22.181Z",
     "original_repository": "currenjin/site-for-developers",
+    "original_repository_id": 567985067,
     "original_repository_sha": "c04e8e13f30a6619043b9d8f0cd38e734218edca",
     "enhanced_repository": "enhansome/enhansome-site-for-developers",
     "enhanced_repository_description": null,
