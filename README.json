@@ -47,7 +47,7 @@
                     "last_commit": "2026-08-24T15:49:06Z",
                     "owner": "zylon-ai",
                     "repo": "private-gpt",
-                    "stars": 57463
+                    "stars": 57464
                   }
                 },
                 {
@@ -59,10 +59,10 @@
                     "archived": false,
                     "id": 615869301,
                     "language": "Go",
-                    "last_commit": "2026-08-25T00:04:43Z",
+                    "last_commit": "2026-08-25T04:03:18Z",
                     "owner": "mudler",
                     "repo": "LocalAI",
-                    "stars": 48663
+                    "stars": 48666
                   }
                 },
                 {
@@ -74,10 +74,10 @@
                     "archived": false,
                     "id": 1334791300,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T10:14:55Z",
+                    "last_commit": "2026-08-25T05:09:25Z",
                     "owner": "Moresyl",
                     "repo": "dsh-studio",
-                    "stars": 18
+                    "stars": 19
                   }
                 }
               ]
@@ -106,7 +106,7 @@
                     "last_commit": "2026-08-21T12:39:13Z",
                     "owner": "sindresorhus",
                     "repo": "awesome",
-                    "stars": 499664
+                    "stars": 499701
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                     "last_commit": "2026-07-14T05:38:25Z",
                     "owner": "ossu",
                     "repo": "computer-science",
-                    "stars": 208399
+                    "stars": 208402
                   }
                 },
                 {
@@ -136,7 +136,7 @@
                     "last_commit": "2026-08-17T21:28:42Z",
                     "owner": "punkpeye",
                     "repo": "awesome-mcp-servers",
-                    "stars": 92756
+                    "stars": 92764
                   }
                 },
                 {
@@ -151,7 +151,7 @@
                     "last_commit": "2024-07-29T14:21:23Z",
                     "owner": "DopplerHQ",
                     "repo": "awesome-interview-questions",
-                    "stars": 84196
+                    "stars": 84199
                   }
                 },
                 {
@@ -181,7 +181,7 @@
                     "last_commit": "2026-08-22T08:36:07Z",
                     "owner": "fffaraz",
                     "repo": "awesome-cpp",
-                    "stars": 72918
+                    "stars": 72921
                   }
                 },
                 {
@@ -196,7 +196,7 @@
                     "last_commit": "2023-05-04T12:49:34Z",
                     "owner": "prakhar1989",
                     "repo": "awesome-courses",
-                    "stars": 70648
+                    "stars": 70651
                   }
                 },
                 {
@@ -211,7 +211,7 @@
                     "last_commit": "2026-05-03T08:24:10Z",
                     "owner": "sindresorhus",
                     "repo": "awesome-nodejs",
-                    "stars": 66618
+                    "stars": 66621
                   }
                 },
                 {
@@ -226,7 +226,7 @@
                     "last_commit": "2026-08-19T15:33:40Z",
                     "owner": "veggiemonk",
                     "repo": "awesome-docker",
-                    "stars": 36706
+                    "stars": 36707
                   }
                 },
                 {
@@ -286,7 +286,7 @@
                     "last_commit": "2026-03-26T05:16:53Z",
                     "owner": "quozd",
                     "repo": "awesome-dotnet",
-                    "stars": 21576
+                    "stars": 21577
                   }
                 },
                 {
@@ -301,7 +301,7 @@
                     "last_commit": "2026-02-27T03:26:22Z",
                     "owner": "thangchung",
                     "repo": "awesome-dotnet-core",
-                    "stars": 21370
+                    "stars": 21371
                   }
                 },
                 {
@@ -628,7 +628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:29:54.188Z",
+    "last_updated": "2026-08-25T06:06:54.391Z",
     "original_repository": "currenjin/site-for-developers",
     "original_repository_id": 567985067,
     "original_repository_sha": "c04e8e13f30a6619043b9d8f0cd38e734218edca",
