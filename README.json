@@ -29,7 +29,7 @@
                     "open_issues": 0,
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 913,
+                    "stars": 922,
                     "topics": [
                       "ai-agents",
                       "ai-testing",
@@ -99,11 +99,11 @@
                     "id": 615869301,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T04:16:01Z",
-                    "open_issues": 223,
+                    "last_commit": "2026-08-29T08:53:50Z",
+                    "open_issues": 219,
                     "owner": "mudler",
                     "repo": "LocalAI",
-                    "stars": 48727,
+                    "stars": 48735,
                     "topics": [
                       "agents",
                       "ai",
@@ -190,7 +190,7 @@
                     "open_issues": 105,
                     "owner": "sindresorhus",
                     "repo": "awesome",
-                    "stars": 500891,
+                    "stars": 500953,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -217,7 +217,7 @@
                     "open_issues": 27,
                     "owner": "ossu",
                     "repo": "computer-science",
-                    "stars": 208490,
+                    "stars": 208498,
                     "topics": [
                       "awesome-list",
                       "computer-science",
@@ -240,10 +240,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-08-27T21:09:23Z",
-                    "open_issues": 3711,
+                    "open_issues": 3716,
                     "owner": "punkpeye",
                     "repo": "awesome-mcp-servers",
-                    "stars": 93008,
+                    "stars": 93016,
                     "topics": [
                       "ai",
                       "mcp"
@@ -267,7 +267,7 @@
                     "open_issues": 48,
                     "owner": "DopplerHQ",
                     "repo": "awesome-interview-questions",
-                    "stars": 84242,
+                    "stars": 84244,
                     "topics": [
                       "android-interview-questions",
                       "angularjs-interview-questions",
@@ -303,7 +303,7 @@
                     "open_issues": 100,
                     "owner": "vuejs",
                     "repo": "awesome-vue",
-                    "stars": 73548,
+                    "stars": 73547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:35:04.652Z"
@@ -324,7 +324,7 @@
                     "open_issues": 312,
                     "owner": "fffaraz",
                     "repo": "awesome-cpp",
-                    "stars": 72983,
+                    "stars": 72987,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -358,7 +358,7 @@
                     "open_issues": 65,
                     "owner": "prakhar1989",
                     "repo": "awesome-courses",
-                    "stars": 70730,
+                    "stars": 70735,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -384,7 +384,7 @@
                     "open_issues": 26,
                     "owner": "sindresorhus",
                     "repo": "awesome-nodejs",
-                    "stars": 66640,
+                    "stars": 66643,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -412,7 +412,7 @@
                     "open_issues": 25,
                     "owner": "veggiemonk",
                     "repo": "awesome-docker",
-                    "stars": 36736,
+                    "stars": 36737,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -452,7 +452,7 @@
                     "open_issues": 8,
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 29887,
+                    "stars": 29888,
                     "topics": [
                       "analytics",
                       "awesome-list",
@@ -484,7 +484,7 @@
                     "open_issues": 84,
                     "owner": "ChristosChristofidis",
                     "repo": "awesome-deep-learning",
-                    "stars": 28828,
+                    "stars": 28830,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -536,7 +536,7 @@
                     "open_issues": 144,
                     "owner": "quozd",
                     "repo": "awesome-dotnet",
-                    "stars": 21579,
+                    "stars": 21580,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -564,7 +564,7 @@
                     "open_issues": 212,
                     "owner": "thangchung",
                     "repo": "awesome-dotnet-core",
-                    "stars": 21371,
+                    "stars": 21370,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -675,10 +675,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-08-03T10:58:05Z",
-                    "open_issues": 612,
+                    "open_issues": 613,
                     "owner": "steven2358",
                     "repo": "awesome-generative-ai",
-                    "stars": 12542,
+                    "stars": 12543,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -823,7 +823,7 @@
                     "open_issues": 17,
                     "owner": "deephacks",
                     "repo": "awesome-jvm",
-                    "stars": 2176,
+                    "stars": 2177,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:35:04.652Z"
@@ -844,7 +844,7 @@
                     "open_issues": 52,
                     "owner": "TheComputerM",
                     "repo": "awesome-svelte",
-                    "stars": 2156,
+                    "stars": 2157,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -868,7 +868,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-07-26T05:01:07Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "brabadu",
                     "repo": "awesome-fonts",
                     "stars": 2066,
@@ -1109,7 +1109,7 @@
                     "open_issues": 13,
                     "owner": "coderabbitai",
                     "repo": "awesome-coderabbit",
-                    "stars": 490,
+                    "stars": 491,
                     "topics": [
                       "ai",
                       "awesome",
@@ -1161,7 +1161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:02.207Z",
+    "last_updated": "2026-08-29T09:22:41.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎💎 개발자들의 첫 번째 북마크",
@@ -1173,7 +1173,7 @@
       "open_issues": 0,
       "owner": "currenjin",
       "repo": "site-for-developers",
-      "stars": 1176,
+      "stars": 1175,
       "topics": [
         "ai",
         "ai-developer-tools",
