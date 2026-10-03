@@ -29,7 +29,7 @@
                     "open_issues": 0,
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 894,
+                    "stars": 895,
                     "topics": [
                       "ai-agents",
                       "ai-testing",
@@ -112,10 +112,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T14:01:06Z",
-                    "open_issues": 18,
+                    "open_issues": 17,
                     "owner": "zylon-ai",
                     "repo": "private-gpt",
-                    "stars": 57556,
+                    "stars": 57557,
                     "topics": [
                       "ai",
                       "ai-tools",
@@ -136,11 +136,11 @@
                     "id": 615869301,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T04:07:59Z",
-                    "open_issues": 178,
+                    "last_commit": "2026-10-03T06:29:23Z",
+                    "open_issues": 175,
                     "owner": "mudler",
                     "repo": "LocalAI",
-                    "stars": 49371,
+                    "stars": 49370,
                     "topics": [
                       "agents",
                       "ai",
@@ -180,7 +180,7 @@
                     "open_issues": 0,
                     "owner": "Moresyl",
                     "repo": "dsh-studio",
-                    "stars": 61,
+                    "stars": 63,
                     "topics": [
                       "cross-platform",
                       "deepseek",
@@ -227,7 +227,7 @@
                     "open_issues": 106,
                     "owner": "sindresorhus",
                     "repo": "awesome",
-                    "stars": 513800,
+                    "stars": 513857,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -254,7 +254,7 @@
                     "open_issues": 28,
                     "owner": "ossu",
                     "repo": "computer-science",
-                    "stars": 209702,
+                    "stars": 209705,
                     "topics": [
                       "awesome-list",
                       "computer-science",
@@ -277,10 +277,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-09-27T02:12:17Z",
-                    "open_issues": 2795,
+                    "open_issues": 2801,
                     "owner": "punkpeye",
                     "repo": "awesome-mcp-servers",
-                    "stars": 95766,
+                    "stars": 95770,
                     "topics": [
                       "ai",
                       "mcp"
@@ -304,7 +304,7 @@
                     "open_issues": 48,
                     "owner": "DopplerHQ",
                     "repo": "awesome-interview-questions",
-                    "stars": 84771,
+                    "stars": 84772,
                     "topics": [
                       "android-interview-questions",
                       "angularjs-interview-questions",
@@ -340,7 +340,7 @@
                     "open_issues": 311,
                     "owner": "fffaraz",
                     "repo": "awesome-cpp",
-                    "stars": 73584,
+                    "stars": 73585,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -395,7 +395,7 @@
                     "open_issues": 65,
                     "owner": "prakhar1989",
                     "repo": "awesome-courses",
-                    "stars": 71549,
+                    "stars": 71551,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -421,7 +421,7 @@
                     "open_issues": 24,
                     "owner": "sindresorhus",
                     "repo": "awesome-nodejs",
-                    "stars": 66985,
+                    "stars": 66988,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -449,7 +449,7 @@
                     "open_issues": 47,
                     "owner": "veggiemonk",
                     "repo": "awesome-docker",
-                    "stars": 36949,
+                    "stars": 36952,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -486,10 +486,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-10-02T20:20:58Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 30103,
+                    "stars": 30104,
                     "topics": [
                       "analytics",
                       "awesome-list",
@@ -521,7 +521,7 @@
                     "open_issues": 88,
                     "owner": "ChristosChristofidis",
                     "repo": "awesome-deep-learning",
-                    "stars": 29002,
+                    "stars": 29004,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -573,7 +573,7 @@
                     "open_issues": 163,
                     "owner": "quozd",
                     "repo": "awesome-dotnet",
-                    "stars": 21639,
+                    "stars": 21638,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -660,7 +660,7 @@
                     "open_issues": 16,
                     "owner": "mfornos",
                     "repo": "awesome-microservices",
-                    "stars": 14530,
+                    "stars": 14531,
                     "topics": [
                       "awesome",
                       "cloud-computing",
@@ -712,7 +712,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-16T21:39:51Z",
-                    "open_issues": 787,
+                    "open_issues": 788,
                     "owner": "steven2358",
                     "repo": "awesome-generative-ai",
                     "stars": 12704,
@@ -742,7 +742,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-09-22T07:49:57Z",
-                    "open_issues": 289,
+                    "open_issues": 290,
                     "owner": "unicodeveloper",
                     "repo": "awesome-nextjs",
                     "stars": 11105,
@@ -777,7 +777,7 @@
                     "open_issues": 0,
                     "owner": "PatrickJS",
                     "repo": "awesome-angular",
-                    "stars": 10078,
+                    "stars": 10079,
                     "topics": [
                       "angular",
                       "angular-components",
@@ -881,7 +881,7 @@
                     "open_issues": 48,
                     "owner": "TheComputerM",
                     "repo": "awesome-svelte",
-                    "stars": 2168,
+                    "stars": 2169,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1146,7 +1146,7 @@
                     "open_issues": 12,
                     "owner": "coderabbitai",
                     "repo": "awesome-coderabbit",
-                    "stars": 531,
+                    "stars": 532,
                     "topics": [
                       "ai",
                       "awesome",
@@ -1198,7 +1198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:47.964Z",
+    "last_updated": "2026-10-03T08:33:07.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎💎 개발자들의 첫 번째 북마크",
