@@ -74,11 +74,11 @@
                     "id": 635240594,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T09:18:59Z",
+                    "last_commit": "2026-10-06T10:23:45Z",
                     "open_issues": 15,
                     "owner": "zylon-ai",
                     "repo": "private-gpt",
-                    "stars": 57559,
+                    "stars": 57561,
                     "topics": [
                       "ai",
                       "ai-tools",
@@ -234,7 +234,7 @@
                     "open_issues": 106,
                     "owner": "sindresorhus",
                     "repo": "awesome",
-                    "stars": 515340,
+                    "stars": 515363,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -284,10 +284,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-09-27T02:12:17Z",
-                    "open_issues": 3009,
+                    "open_issues": 3013,
                     "owner": "punkpeye",
                     "repo": "awesome-mcp-servers",
-                    "stars": 95863,
+                    "stars": 95864,
                     "topics": [
                       "ai",
                       "mcp"
@@ -311,7 +311,7 @@
                     "open_issues": 48,
                     "owner": "DopplerHQ",
                     "repo": "awesome-interview-questions",
-                    "stars": 84825,
+                    "stars": 84827,
                     "topics": [
                       "android-interview-questions",
                       "angularjs-interview-questions",
@@ -347,7 +347,7 @@
                     "open_issues": 312,
                     "owner": "fffaraz",
                     "repo": "awesome-cpp",
-                    "stars": 73641,
+                    "stars": 73645,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -381,7 +381,7 @@
                     "open_issues": 85,
                     "owner": "vuejs",
                     "repo": "awesome-vue",
-                    "stars": 73534,
+                    "stars": 73533,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:35:04.652Z"
@@ -402,7 +402,7 @@
                     "open_issues": 65,
                     "owner": "prakhar1989",
                     "repo": "awesome-courses",
-                    "stars": 71631,
+                    "stars": 71636,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -428,7 +428,7 @@
                     "open_issues": 24,
                     "owner": "sindresorhus",
                     "repo": "awesome-nodejs",
-                    "stars": 67019,
+                    "stars": 67021,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -456,7 +456,7 @@
                     "open_issues": 47,
                     "owner": "veggiemonk",
                     "repo": "awesome-docker",
-                    "stars": 36969,
+                    "stars": 36970,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -528,7 +528,7 @@
                     "open_issues": 90,
                     "owner": "ChristosChristofidis",
                     "repo": "awesome-deep-learning",
-                    "stars": 29012,
+                    "stars": 29013,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -577,10 +577,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-03-26T05:16:53Z",
-                    "open_issues": 168,
+                    "open_issues": 169,
                     "owner": "quozd",
                     "repo": "awesome-dotnet",
-                    "stars": 21642,
+                    "stars": 21643,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -605,10 +605,10 @@
                     "language": "C#",
                     "license": null,
                     "last_commit": "2026-02-27T03:26:22Z",
-                    "open_issues": 219,
+                    "open_issues": 222,
                     "owner": "thangchung",
                     "repo": "awesome-dotnet-core",
-                    "stars": 21399,
+                    "stars": 21400,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -664,7 +664,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-08-20T15:52:41Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "mfornos",
                     "repo": "awesome-microservices",
                     "stars": 14532,
@@ -719,10 +719,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-03T17:14:50Z",
-                    "open_issues": 812,
+                    "open_issues": 813,
                     "owner": "steven2358",
                     "repo": "awesome-generative-ai",
-                    "stars": 12709,
+                    "stars": 12710,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1205,7 +1205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:25:08.427Z",
+    "last_updated": "2026-10-06T10:41:29.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎💎 개발자들의 첫 번째 북마크",
@@ -1214,7 +1214,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-10-06T08:21:56Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "currenjin",
       "repo": "site-for-developers",
       "stars": 1178,
