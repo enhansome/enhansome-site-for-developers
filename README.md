@@ -188,8 +188,8 @@
 * <span id="ai">AI 🤖</span>
 
   * <span id="ai-dev-tools">개발 도구</span>
-    * [Agent QA <sub>EN, F</sub>](https://github.com/vostride/agent-qa) ⭐ 856 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-07 - 자연어 기반 웹·모바일 테스트 도구. FSL-1.1-ALv2의 허용된 사용은 소프트웨어 비용이 없으나 외부 모델·브라우저·기기 서비스 비용은 별도
-    * [Archcore <sub>EN, F, O</sub>](https://github.com/archcore-ai/archcore) ⭐ 75 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-06 - 스펙, 아키텍처, 결정(ADR), 규칙, 계획을 저장소의 `.archcore/`에 Git으로 관리하고 CLI·MCP 서버·플러그인으로 AI 코딩 에이전트에 프로젝트 컨텍스트를 제공. CLI는 끌 수 없는 자동 업데이트를 하며(쓰기 권한이 없는 경로에 설치하면 멈춤), 설치·업데이트 통계를 전송(`DO_NOT_TRACK=1`로 해제)
+    * [Agent QA <sub>EN, F</sub>](https://github.com/vostride/agent-qa) ⭐ 856 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-08 - 자연어 기반 웹·모바일 테스트 도구. FSL-1.1-ALv2의 허용된 사용은 소프트웨어 비용이 없으나 외부 모델·브라우저·기기 서비스 비용은 별도
+    * [Archcore <sub>EN, F, O</sub>](https://github.com/archcore-ai/archcore) ⭐ 75 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-07 - 스펙, 아키텍처, 결정(ADR), 규칙, 계획을 저장소의 `.archcore/`에 Git으로 관리하고 CLI·MCP 서버·플러그인으로 AI 코딩 에이전트에 프로젝트 컨텍스트를 제공. CLI는 끌 수 없는 자동 업데이트를 하며(쓰기 권한이 없는 경로에 설치하면 멈춤), 설치·업데이트 통계를 전송(`DO_NOT_TRACK=1`로 해제)
     * [GitHub Copilot <sub>F, $</sub>](https://github.com/features/copilot) - GitHub에서 개발한 프로그래밍 AI 보조 도구
     * [Cursor <sub>F, $</sub>](https://cursor.com) - AI 기반 코드 에디터로 코드 생성 및 편집 지원
     * [Devin Desktop (구 Windsurf)](https://devin.ai/desktop) - IDE에서 여러 코딩 에이전트의 작업과 코드 변경을 관리하는 개발 환경
@@ -237,6 +237,7 @@
     * [Cohere <sub>F, $</sub>](https://cohere.com) - 기업용 LLM API 및 임베딩 모델
     * [AI Router <sub>KR, $</sub>](https://ai-router.dev/ko) - 제3자가 운영하는 OpenAI 호환 API 게이트웨이. 키의 종류와 데이터 처리 정책은 사용 전 별도 확인 필요
     * [PlaceCall <sub>EN, $</sub>](https://voygr.tech/placecall/) - AI 에이전트가 미국 업체에 실제 전화를 걸어 예약·문의·견적을 처리하고 통화 결과와 녹취록을 돌려받는 REST API·원격 MCP 서버. 계정 필요(API 키 또는 MCP OAuth 로그인), 미국 번호만 지원, 통화 녹음·녹취록은 제공사 서버에 저장됨
+    * [Jvlang AI (巨浪 AI) <sub>F, $</sub>](https://jvlangai.com/) - 중국어 사용자를 위한 LLM API 공개 견적 조회. 제공사별 그룹·과금 단위·수집 시각·원문 링크를 확인할 때 사용. 조회는 로그인·API 키 없이 무료이며 비공개 소스의 웹 서비스로, 별도 후원·충전 상담은 유료. 수집 가격은 실제 호출 검증이나 제공사 신뢰도 보증이 아님. 제작자 기여.
 
   * <span id="ai-agent">에이전트 & 프레임워크</span>
     * [LangChain <sub>F, O</sub>](https://www.langchain.com) - LLM 애플리케이션 개발 프레임워크
@@ -248,17 +249,17 @@
     * [Vercel AI SDK <sub>F, O</sub>](https://sdk.vercel.ai) - Next.js 등 웹 앱에 AI 기능을 빠르게 통합하는 SDK
 
   * <span id="ai-local-tools">로컬 AI 도구</span>
-    * [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) ⭐ 57,631 | 🐛 26 | 🌐 Python | 📅 2026-11-03 - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션
-    * [LocalAI <sub>F, O</sub>](https://github.com/go-skynet/LocalAI) ⭐ 50,239 | 🐛 178 | 🌐 Go | 📅 2026-11-07 - OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션
+    * [PrivateGPT <sub>F, O</sub>](https://github.com/imartinez/privateGPT) ⭐ 57,632 | 🐛 27 | 🌐 Python | 📅 2026-11-03 - 로컬 환경에서 문서와 상호작용할 수 있는 프라이버시 중심의 AI 솔루션
+    * [LocalAI <sub>F, O</sub>](https://github.com/go-skynet/LocalAI) ⭐ 50,250 | 🐛 180 | 🌐 Go | 📅 2026-11-08 - OpenAI API와 호환되는 로컬 REST API를 제공하는 자체 호스팅 가능한 오픈소스 솔루션
     * [Ollama <sub>F, O</sub>](https://ollama.ai/) - 로컬 환경에서 다양한 오픈소스 AI 모델을 쉽게 실행할 수 있는 도구
     * [LM Studio <sub>F</sub>](https://lmstudio.ai/) - 로컬 컴퓨터에서 대규모 언어 모델을 테스트하고 실행할 수 있는 데스크톱 애플리케이션
     * [Jan <sub>F, O</sub>](https://jan.ai) - 로컬 모델 실행을 지원하는 대화형 AI 앱. 오프라인 사용에는 모델 준비와 설정 확인 필요
     * [GPT4All <sub>F, O</sub>](https://gpt4all.io/) - 로컬 환경에서 실행되는 오픈소스 대화형 AI 생태계로, 개인정보 보호에 중점을 둠
 
   * <span id="agent-management">코딩 에이전트 관리 도구</span>
-    * [OrcaReplay <sub>EN, F, O</sub>](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 380 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - 코딩 에이전트와 모델 제공자 사이의 HTTP 호출을 기록하고 저장된 실행을 재생하는 CLI
-    * [DSH Studio <sub>EN, F, O</sub>](https://github.com/Moresyl/dsh-studio) ⭐ 129 | 🐛 0 | 🌐 Rust | 📅 2026-10-05 - DeepSeek Harness를 설치·실행·감독하는 데스크톱 앱. 로컬 앱 실행과 모델의 로컬/오프라인 실행은 다르며 모델 제공자 비용은 별도 확인
-    * [5dive <sub>EN, F, O</sub>](https://github.com/5dive-ai/5dive) ⭐ 109 | 🐛 9 | 🌐 Shell | 📅 2026-11-07 - 내 리눅스 서버에서 AI 코딩 에이전트 팀을 실행하는 MIT 오픈소스 CLI로, 각 에이전트가 별도의 리눅스 사용자로 Claude Code, Codex 등 공식 에이전트 CLI를 systemd 서비스로 실행하고 공유 작업 큐로 일을 주고받음
+    * [OrcaReplay <sub>EN, F, O</sub>](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 408 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - 코딩 에이전트와 모델 제공자 사이의 HTTP 호출을 기록하고 저장된 실행을 재생하는 CLI
+    * [DSH Studio <sub>EN, F, O</sub>](https://github.com/Moresyl/dsh-studio) ⭐ 130 | 🐛 0 | 🌐 Rust | 📅 2026-10-05 - DeepSeek Harness를 설치·실행·감독하는 데스크톱 앱. 로컬 앱 실행과 모델의 로컬/오프라인 실행은 다르며 모델 제공자 비용은 별도 확인
+    * [5dive <sub>EN, F, O</sub>](https://github.com/5dive-ai/5dive) ⭐ 111 | 🐛 9 | 🌐 Shell | 📅 2026-11-08 - 내 리눅스 서버에서 AI 코딩 에이전트 팀을 실행하는 MIT 오픈소스 CLI로, 각 에이전트가 별도의 리눅스 사용자로 Claude Code, Codex 등 공식 에이전트 CLI를 systemd 서비스로 실행하고 공유 작업 큐로 일을 주고받음
     * [YYLO <sub>EN, F, O</sub>](https://www.yylo.dev) - 코딩 에이전트를 명령줄에서 조율하고 작업별 브랜치·워크트리와 머지 큐를 관리하는 도구
     * [agent-manager <sub>EN, F, O</sub>](https://agent-manager.dev) - 설치된 코딩 에이전트 CLI를 tmux 세션으로 관리하는 터미널 UI. 세션 상태, 선택적 Git 워크트리와 diff 리뷰 지원
     * [Frink <sub>EN, F, O</sub>](https://frink.dev) - AI 코딩 에이전트를 시각적 워크플로우로 실행하는 데스크톱 앱. 티켓·오류·일정에 따라 에이전트가 작업하고 변경 전에 먼저 확인을 요청하며, Claude Code, Codex, OpenCode, GitHub Copilot, Cursor와 함께 사용. MIT 라이선스, macOS·Linux 로컬 실행. 모델 제공자 비용은 별도
@@ -510,34 +511,34 @@
   * [Google Labs <sub>EN</sub>](https://labs.google/) - Google 실험실
 
   * <span id="awesome">Awesome</span>
-    * [Awesome <sub>EN, O</sub>](https://github.com/sindresorhus/awesome) ⭐ 532,726 | 🐛 103 | 📅 2026-09-02 - 프로그래밍 관련 자료모음
-    * [Awesome Computer Science <sub>EN</sub>](https://github.com/ossu/computer-science) ⭐ 210,914 | 🐛 28 | 🌐 HTML | 📅 2026-11-07 - 컴퓨터 사이언스 자료모음 (Awesome 계열)
-    * [Awesome Mcp Servers <sub>EN, O</sub>](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97,407 | 🐛 4,447 | 📅 2026-11-06 - MCP Server 관련 자료모음 (Awesome 계열)
+    * [Awesome <sub>EN, O</sub>](https://github.com/sindresorhus/awesome) ⭐ 533,467 | 🐛 103 | 📅 2026-09-02 - 프로그래밍 관련 자료모음
+    * [Awesome Computer Science <sub>EN</sub>](https://github.com/ossu/computer-science) ⭐ 210,957 | 🐛 28 | 🌐 HTML | 📅 2026-11-07 - 컴퓨터 사이언스 자료모음 (Awesome 계열)
+    * [Awesome Mcp Servers <sub>EN, O</sub>](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97,456 | 🐛 4,506 | 📅 2026-11-06 - MCP Server 관련 자료모음 (Awesome 계열)
     * [Awesome Interview Questions <sub>EN</sub>](https://github.com/DopplerHQ/awesome-interview-questions) ⚠️ Archived - 인터뷰 질문 자료모음 (Awesome 계열)
-    * [Awesome C++ <sub>EN, O</sub>](https://github.com/fffaraz/awesome-cpp) ⭐ 74,287 | 🐛 287 | 📅 2026-11-06 - C++ 관련 자료모음 (Awesome 계열)
-    * [Awesome Vue <sub>EN, O</sub>](https://github.com/vuejs/awesome-vue) ⭐ 73,483 | 🐛 104 | 📅 2026-11-03 - Vue.js 관련 자료모음 (Awesome 계열)
-    * [Awesome Courses <sub>EN</sub>](https://github.com/prakhar1989/awesome-courses) ⭐ 72,633 | 🐛 66 | 📅 2023-05-04 - 무료 CS 강좌 모음 (Awesome 계열)
-    * [Awesome Node.js <sub>EN, O</sub>](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,406 | 🐛 24 | 📅 2026-09-02 - Node.js 관련 자료모음 (Awesome 계열)
-    * [Awesome Docker <sub>EN</sub>](https://github.com/veggiemonk/awesome-docker) ⭐ 37,190 | 🐛 75 | 📅 2026-11-04 - 도커 자료모음 (Awesome 계열)
-    * [Awesome Data Science <sub>EN</sub>](https://github.com/academic/awesome-datascience) ⭐ 30,296 | 🐛 2 | 📅 2026-11-04 - 데이터 사이언스 자료모음 (Awesome 계열)
-    * [Awesome Deep Learning <sub>EN</sub>](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,152 | 🐛 93 | 📅 2025-05-26 - 딥 러닝 자료모음 (Awesome 계열)
-    * [Awesome Computer Vision <sub>EN</sub>](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,631 | 🐛 100 | 📅 2024-05-17 - 컴퓨터 비전 자료모음 (Awesome 계열)
-    * [Awesome .NET <sub>EN, O</sub>](https://github.com/quozd/awesome-dotnet) ⭐ 21,706 | 🐛 221 | 📅 2026-03-26 - .NET 관련 자료모음 (Awesome 계열)
+    * [Awesome C++ <sub>EN, O</sub>](https://github.com/fffaraz/awesome-cpp) ⭐ 74,302 | 🐛 288 | 📅 2026-11-06 - C++ 관련 자료모음 (Awesome 계열)
+    * [Awesome Vue <sub>EN, O</sub>](https://github.com/vuejs/awesome-vue) ⭐ 73,481 | 🐛 106 | 📅 2026-11-03 - Vue.js 관련 자료모음 (Awesome 계열)
+    * [Awesome Courses <sub>EN</sub>](https://github.com/prakhar1989/awesome-courses) ⭐ 72,665 | 🐛 66 | 📅 2023-05-04 - 무료 CS 강좌 모음 (Awesome 계열)
+    * [Awesome Node.js <sub>EN, O</sub>](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,413 | 🐛 25 | 📅 2026-09-02 - Node.js 관련 자료모음 (Awesome 계열)
+    * [Awesome Docker <sub>EN</sub>](https://github.com/veggiemonk/awesome-docker) ⭐ 37,193 | 🐛 75 | 📅 2026-11-04 - 도커 자료모음 (Awesome 계열)
+    * [Awesome Data Science <sub>EN</sub>](https://github.com/academic/awesome-datascience) ⭐ 30,301 | 🐛 2 | 📅 2026-11-04 - 데이터 사이언스 자료모음 (Awesome 계열)
+    * [Awesome Deep Learning <sub>EN</sub>](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,156 | 🐛 92 | 📅 2025-05-26 - 딥 러닝 자료모음 (Awesome 계열)
+    * [Awesome Computer Vision <sub>EN</sub>](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,632 | 🐛 100 | 📅 2024-05-17 - 컴퓨터 비전 자료모음 (Awesome 계열)
+    * [Awesome .NET <sub>EN, O</sub>](https://github.com/quozd/awesome-dotnet) ⭐ 21,707 | 🐛 221 | 📅 2026-03-26 - .NET 관련 자료모음 (Awesome 계열)
     * [Awesome .NET Core <sub>EN, O</sub>](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,447 | 🐛 228 | 🌐 C# | 📅 2026-02-27 - .NET Core 관련 자료모음 (Awesome 계열)
-    * [Awesome Tailwind CSS <sub>EN, O</sub>](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,224 | 🐛 0 | 📅 2026-10-27 - Tailwind CSS 관련 자료모음 (Awesome 계열)
-    * [Awesome Microservices <sub>EN</sub>](https://github.com/mfornos/awesome-microservices) ⭐ 14,564 | 🐛 24 | 📅 2026-08-20 - 마이크로서비스 자료모음 (Awesome 계열)
+    * [Awesome Tailwind CSS <sub>EN, O</sub>](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,227 | 🐛 0 | 📅 2026-10-27 - Tailwind CSS 관련 자료모음 (Awesome 계열)
+    * [Awesome Microservices <sub>EN</sub>](https://github.com/mfornos/awesome-microservices) ⭐ 14,565 | 🐛 24 | 📅 2026-08-20 - 마이크로서비스 자료모음 (Awesome 계열)
     * [Awesome Ruby <sub>EN, O</sub>](https://github.com/markets/awesome-ruby) ⭐ 14,184 | 🐛 11 | 📅 2026-10-05 - Ruby 관련 자료모음 (Awesome 계열)
-    * [Awesome Generative AI <sub>EN</sub>](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,816 | 🐛 1,291 | 📅 2026-10-30 - 생성형 AI 자료모음 (Awesome 계열)
-    * [Awesome Next.js <sub>EN, O</sub>](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,106 | 🐛 386 | 📅 2026-11-02 - Next.js 관련 자료모음 (Awesome 계열)
-    * [Awesome Angular <sub>EN, O</sub>](https://github.com/PatrickJS/awesome-angular) ⭐ 10,097 | 🐛 6 | 🌐 HTML | 📅 2026-11-06 - Angular 관련 자료모음 (Awesome 계열)
+    * [Awesome Generative AI <sub>EN</sub>](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,816 | 🐛 1,304 | 📅 2026-10-30 - 생성형 AI 자료모음 (Awesome 계열)
+    * [Awesome Next.js <sub>EN, O</sub>](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,105 | 🐛 385 | 📅 2026-11-02 - Next.js 관련 자료모음 (Awesome 계열)
+    * [Awesome Angular <sub>EN, O</sub>](https://github.com/PatrickJS/awesome-angular) ⭐ 10,096 | 🐛 6 | 🌐 HTML | 📅 2026-11-08 - Angular 관련 자료모음 (Awesome 계열)
     * [Awesome CSS <sub>EN, O</sub>](https://github.com/awesome-css-group/awesome-css) ⭐ 5,655 | 🐛 33 | 📅 2024-10-30 - CSS 관련 자료모음 (Awesome 계열)
     * [Awesome GeoJson <sub>EN</sub>](https://github.com/tmcw/awesome-geojson) ⭐ 2,555 | 🐛 1 | 📅 2026-10-28 - Geo JSON 자료모음 (Awesome 계열)
-    * [Awesome Svelte <sub>EN, O</sub>](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,177 | 🐛 73 | 📅 2026-11-03 - Svelte 관련 자료모음 (Awesome 계열)
-    * [Awesome JVM <sub>EN</sub>](https://github.com/deephacks/awesome-jvm) ⭐ 2,174 | 🐛 18 | 📅 2022-08-30 - JVM 자료모음 (Awesome 계열)
+    * [Awesome Svelte <sub>EN, O</sub>](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,178 | 🐛 74 | 📅 2026-11-03 - Svelte 관련 자료모음 (Awesome 계열)
+    * [Awesome JVM <sub>EN</sub>](https://github.com/deephacks/awesome-jvm) ⭐ 2,175 | 🐛 18 | 📅 2022-08-30 - JVM 자료모음 (Awesome 계열)
     * [Awesome Fonts <sub>EN, O</sub>](https://github.com/brabadu/awesome-fonts) ⭐ 2,100 | 🐛 3 | 📅 2026-10-31 - 폰트 관련 자료모음 (Awesome 계열)
     * [Algovis <sub>EN, O</sub>](https://github.com/enjalot/algovis) ⭐ 1,767 | 🐛 8 | 📅 2022-12-05 - 알고리즘 시각화 자료모음 (Awesome 계열)
     * [Awesome Playwright <sub>EN</sub>](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,604 | 🐛 54 | 📅 2026-10-02 - 플레이라이트 자료모음 (Awesome 계열)
-    * [Awesome Web Icons <sub>EN, O</sub>](https://github.com/vkarampinis/awesome-icons) ⭐ 1,581 | 🐛 4 | 📅 2026-11-01 - 웹 아이콘 관련 자료모음 (Awesome 계열)
+    * [Awesome Web Icons <sub>EN, O</sub>](https://github.com/vkarampinis/awesome-icons) ⭐ 1,582 | 🐛 4 | 📅 2026-11-01 - 웹 아이콘 관련 자료모음 (Awesome 계열)
     * [Awesome Bootstrap <sub>EN, O</sub>](https://github.com/awesome-bootstrap-org/awesome-bootstrap) ⭐ 1,435 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-02 - Bootstrap 관련 자료모음 (Awesome 계열)
     * [Awesome Maintainers <sub>EN, O</sub>](https://github.com/nayafia/awesome-maintainers) ⭐ 1,175 | 🐛 0 | 📅 2021-08-16 - Open source maintainer 모음 (Awesome 계열)
     * [Awesome Icons <sub>EN, O</sub>](https://github.com/notlmn/awesome-icons) ⭐ 1,027 | 🐛 18 | 📅 2026-10-12 - 아이콘 관련 자료모음 (Awesome 계열)
@@ -573,6 +574,7 @@
     * [deed.page <sub>EN, F, $</sub>](https://deed.page) - HTML 파일이나 정적 사이트 폴더를 PUT 요청 한 번으로 고정 HTTPS 주소(`이름.deed.page`)에 게시하는 정적 호스팅 API. 원격 MCP 서버로 코딩 에이전트에서도 사용 가능. 첫 게시는 계정·API 키 없이 가능하고 응답으로 받은 토큰으로 같은 주소를 갱신. 무료 플랜은 사이트 25개·사이트당 25MB, 서버 측 코드·DB는 지원하지 않음
     * [npmscan <sub>EN, F, O</sub>](https://npmscan.com/) - npm 패키지의 알려진 취약점·악성 패키지 정보와 신뢰 신호를 조회하는 원격 API·MCP 서비스. 계정·API 키 없이 사용 가능하며 MCP는 IP당 분당 30회 제한. MIT 라이선스 클라이언트 플러그인 제공
     * [SiftingIO <sub>EN, F, $</sub>](https://sifting.io/docs) - 미국 주식·ETF, 외환, 원자재·암호화폐의 실시간 데이터를 REST·WebSocket으로, 과거 데이터를 REST로 조회하는 시장 데이터 API. 계정·API 키 필요. 내부·비상업적 평가용 한도형 무료 플랜과 유료 플랜 제공
+    * [LogBrew <sub>EN, F, $</sub>](https://logbrew.co/en) - 오류 추적·로그·트레이스·메트릭을 한곳에서 보는 호스팅 모니터링 서비스. OpenTelemetry 데이터를 받으며, 원격 MCP 서버로 코딩 에이전트가 승인한 프로젝트의 이슈와 로그를 읽음(쓰기는 허용한 경우에만). 계정 필요(GitHub·GitLab·Bitbucket·Google 로그인), 무료 플랜은 카드 없이 월 오류 10만 건·로그 50GB·스팬 5천만 개, 보존 기간 30일. 데이터는 제공사 서버에 저장됨
 
   * <span id="online-utilities">Online Utilities</span>
     * [All Tools Verse <sub>EN, F</sub>](https://alltoolsverse.com/) - 파일·이미지·텍스트·데이터 변환 등 브라우저 도구 모음
@@ -580,6 +582,7 @@
     * [Stayput <sub>EN, F, O</sub>](https://stayput.dev) - 이미지·PDF·오디오·영상 파일을 브라우저에서 처리하는 무료 도구 모음. 파일을 업로드하지 않고 계정이 필요 없으며, 코드는 MIT 라이선스로 공개
     * [Nutilz <sub>EN, F</sub>](https://nutilz.com/) - 정규식 테스트·JSON 포맷 등 개발 보조 유틸리티. 도구에 따라 서버 처리가 포함되므로 업로드 여부 확인 필요
     * [imgmov Last Frame Extractor <sub>EN, F</sub>](https://imgmov.com/extract-last-frame-from-video) - Browser tool for saving a video's ending frame as a PNG for demo references or bug reports. No account or video upload; clips up to 512 MB and two minutes, subject to browser codec support.
+    * [cv.cm JWT Decoder <sub>KR, EN, F, O</sub>](https://cv.cm/ko/jwt/) - 인증 디버깅 때 JWT의 헤더와 페이로드를 브라우저 안에서 읽는 무료 도구. 계정이 필요 없고 토큰을 전송하지 않음. 서명은 검증하지 않으며 페이지에 Google Analytics가 있음
 
   * <span id="search-tool">Search</span>
     * [Google](https://www.google.com/) - 검색 엔진
@@ -708,4 +711,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
