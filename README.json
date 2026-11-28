@@ -29,7 +29,7 @@
                     "open_issues": 7,
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 824,
+                    "stars": 827,
                     "topics": [
                       "ai-agents",
                       "ai-testing",
@@ -117,10 +117,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-26T09:22:20Z",
-                    "open_issues": 30,
+                    "open_issues": 31,
                     "owner": "zylon-ai",
                     "repo": "private-gpt",
-                    "stars": 57664,
+                    "stars": 57666,
                     "topics": [
                       "ai",
                       "ai-tools",
@@ -141,11 +141,11 @@
                     "id": 615869301,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-27T11:18:28Z",
-                    "open_issues": 225,
+                    "last_commit": "2026-11-28T10:07:00Z",
+                    "open_issues": 230,
                     "owner": "mudler",
                     "repo": "LocalAI",
-                    "stars": 50576,
+                    "stars": 50599,
                     "topics": [
                       "agents",
                       "ai",
@@ -191,7 +191,7 @@
                     "open_issues": 3,
                     "owner": "Continuum-AI-Corp",
                     "repo": "OrcaReplay",
-                    "stars": 1235,
+                    "stars": 1246,
                     "topics": [
                       "agent-debugging",
                       "agent-tracing",
@@ -211,6 +211,48 @@
                     ]
                   },
                   "first_seen": "2026-09-14T08:06:16.163Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "5dive EN, F, O",
+                  "description": "내 리눅스 서버에서 AI 코딩 에이전트 팀을 실행하는 MIT 오픈소스 CLI로, 각 에이전트가 별도의 리눅스 사용자로 Claude Code, Codex 등 공식 에이전트 CLI를 systemd 서비스로 실행하고 공유 작업 큐로 일을 주고받음",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Run your own AI team from your phone. Claude Code, Codex and more on your own server: shared tasks, always-on agents, a small composable bash core. MIT. An open-source alternative to Grok Bot and OpenAI Dots.",
+                    "homepage": "https://5dive.ai",
+                    "id": 1239570688,
+                    "language": "Shell",
+                    "license": "MIT",
+                    "last_commit": "2026-11-28T10:08:13Z",
+                    "open_issues": 4,
+                    "owner": "5dive-ai",
+                    "repo": "5dive",
+                    "stars": 136,
+                    "topics": [
+                      "agent-loops",
+                      "agent-orchestration",
+                      "agent-runtime",
+                      "agent-to-agent",
+                      "ai-agents",
+                      "ai-company",
+                      "ai-employee",
+                      "ai-team",
+                      "autonomous-agents",
+                      "claude-code",
+                      "grok-bot",
+                      "grok-bot-alternative",
+                      "grokbot",
+                      "human-in-the-loop",
+                      "long-running-agents",
+                      "multi-agent",
+                      "multi-agent-orchestration",
+                      "persistent-agents",
+                      "self-hosted",
+                      "zero-human-company"
+                    ]
+                  },
+                  "first_seen": "2026-10-15T07:43:15.145Z"
                 },
                 {
                   "node_type": "item",
@@ -244,48 +286,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T14:35:04.652Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "5dive EN, F, O",
-                  "description": "내 리눅스 서버에서 AI 코딩 에이전트 팀을 실행하는 MIT 오픈소스 CLI로, 각 에이전트가 별도의 리눅스 사용자로 Claude Code, Codex 등 공식 에이전트 CLI를 systemd 서비스로 실행하고 공유 작업 큐로 일을 주고받음",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Run your own AI team from your phone. Claude Code, Codex and more on your own server: shared tasks, always-on agents, a small composable bash core. MIT. An open-source alternative to Grok Bot and OpenAI Dots.",
-                    "homepage": "https://5dive.ai",
-                    "id": 1239570688,
-                    "language": "Shell",
-                    "license": "MIT",
-                    "last_commit": "2026-11-27T09:11:54Z",
-                    "open_issues": 3,
-                    "owner": "5dive-ai",
-                    "repo": "5dive",
-                    "stars": 131,
-                    "topics": [
-                      "agent-loops",
-                      "agent-orchestration",
-                      "agent-runtime",
-                      "agent-to-agent",
-                      "ai-agents",
-                      "ai-company",
-                      "ai-employee",
-                      "ai-team",
-                      "autonomous-agents",
-                      "claude-code",
-                      "grok-bot",
-                      "grok-bot-alternative",
-                      "grokbot",
-                      "human-in-the-loop",
-                      "long-running-agents",
-                      "multi-agent",
-                      "multi-agent-orchestration",
-                      "persistent-agents",
-                      "self-hosted",
-                      "zero-human-company"
-                    ]
-                  },
-                  "first_seen": "2026-10-15T07:43:15.145Z"
                 }
               ]
             }
@@ -364,7 +364,7 @@
                     "open_issues": 103,
                     "owner": "sindresorhus",
                     "repo": "awesome",
-                    "stars": 543681,
+                    "stars": 544143,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -391,7 +391,7 @@
                     "open_issues": 33,
                     "owner": "ossu",
                     "repo": "computer-science",
-                    "stars": 211615,
+                    "stars": 211631,
                     "topics": [
                       "awesome-list",
                       "computer-science",
@@ -414,10 +414,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-11-26T22:26:12Z",
-                    "open_issues": 5464,
+                    "open_issues": 5569,
                     "owner": "punkpeye",
                     "repo": "awesome-mcp-servers",
-                    "stars": 98565,
+                    "stars": 98593,
                     "topics": [
                       "ai",
                       "mcp"
@@ -441,7 +441,7 @@
                     "open_issues": 48,
                     "owner": "DopplerHQ",
                     "repo": "awesome-interview-questions",
-                    "stars": 85789,
+                    "stars": 85797,
                     "topics": [
                       "android-interview-questions",
                       "angularjs-interview-questions",
@@ -477,7 +477,7 @@
                     "open_issues": 286,
                     "owner": "fffaraz",
                     "repo": "awesome-cpp",
-                    "stars": 74649,
+                    "stars": 74666,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -508,10 +508,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-11-03T16:02:10Z",
-                    "open_issues": 119,
+                    "open_issues": 120,
                     "owner": "vuejs",
                     "repo": "awesome-vue",
-                    "stars": 73457,
+                    "stars": 73458,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:35:04.652Z"
@@ -532,7 +532,7 @@
                     "open_issues": 67,
                     "owner": "prakhar1989",
                     "repo": "awesome-courses",
-                    "stars": 73197,
+                    "stars": 73225,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -558,7 +558,7 @@
                     "open_issues": 24,
                     "owner": "sindresorhus",
                     "repo": "awesome-nodejs",
-                    "stars": 67653,
+                    "stars": 67664,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -583,10 +583,10 @@
                     "language": null,
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-26T13:56:23Z",
-                    "open_issues": 99,
+                    "open_issues": 101,
                     "owner": "veggiemonk",
                     "repo": "awesome-docker",
-                    "stars": 37306,
+                    "stars": 37311,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -626,7 +626,7 @@
                     "open_issues": 2,
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 30378,
+                    "stars": 30379,
                     "topics": [
                       "analytics",
                       "awesome-list",
@@ -707,10 +707,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-03-26T05:16:53Z",
-                    "open_issues": 235,
+                    "open_issues": 237,
                     "owner": "quozd",
                     "repo": "awesome-dotnet",
-                    "stars": 21740,
+                    "stars": 21741,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -766,7 +766,7 @@
                     "open_issues": 1,
                     "owner": "aniftyco",
                     "repo": "awesome-tailwindcss",
-                    "stars": 15236,
+                    "stars": 15237,
                     "topics": [
                       "apps",
                       "awesome",
@@ -797,7 +797,7 @@
                     "open_issues": 30,
                     "owner": "mfornos",
                     "repo": "awesome-microservices",
-                    "stars": 14597,
+                    "stars": 14596,
                     "topics": [
                       "awesome",
                       "cloud-computing",
@@ -849,10 +849,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-20T12:16:34Z",
-                    "open_issues": 1448,
+                    "open_issues": 1449,
                     "owner": "steven2358",
                     "repo": "awesome-generative-ai",
-                    "stars": 12869,
+                    "stars": 12870,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -879,7 +879,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-11-02T17:22:34Z",
-                    "open_issues": 451,
+                    "open_issues": 452,
                     "owner": "unicodeveloper",
                     "repo": "awesome-nextjs",
                     "stars": 11108,
@@ -910,11 +910,11 @@
                     "id": 41718185,
                     "language": "HTML",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-11-26T17:53:33Z",
+                    "last_commit": "2026-11-27T17:42:40Z",
                     "open_issues": 1,
                     "owner": "PatrickJS",
                     "repo": "awesome-angular",
-                    "stars": 10102,
+                    "stars": 10101,
                     "topics": [
                       "angular",
                       "angular-components",
@@ -945,7 +945,7 @@
                     "open_issues": 35,
                     "owner": "awesome-css-group",
                     "repo": "awesome-css",
-                    "stars": 5671,
+                    "stars": 5674,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -997,7 +997,7 @@
                     "open_issues": 79,
                     "owner": "TheComputerM",
                     "repo": "awesome-svelte",
-                    "stars": 2182,
+                    "stars": 2183,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1045,7 +1045,7 @@
                     "open_issues": 2,
                     "owner": "brabadu",
                     "repo": "awesome-fonts",
-                    "stars": 2116,
+                    "stars": 2115,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1093,7 +1093,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-17T04:35:17Z",
-                    "open_issues": 26,
+                    "open_issues": 28,
                     "owner": "mxschmitt",
                     "repo": "awesome-playwright",
                     "stars": 1623,
@@ -1207,7 +1207,7 @@
                     "open_issues": 23,
                     "owner": "notlmn",
                     "repo": "awesome-icons",
-                    "stars": 1034,
+                    "stars": 1035,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -1280,10 +1280,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-29T15:08:19Z",
-                    "open_issues": 13,
+                    "open_issues": 14,
                     "owner": "coderabbitai",
                     "repo": "awesome-coderabbit",
-                    "stars": 600,
+                    "stars": 601,
                     "topics": [
                       "ai",
                       "awesome",
@@ -1401,7 +1401,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:24:10.118Z",
+    "last_updated": "2026-11-28T10:52:32.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎💎 개발자들의 첫 번째 북마크",
@@ -1410,7 +1410,7 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2026-11-25T01:30:03Z",
-      "open_issues": 15,
+      "open_issues": 20,
       "owner": "currenjin",
       "repo": "site-for-developers",
       "stars": 1227,
